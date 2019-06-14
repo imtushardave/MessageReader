@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\Android_Login-And-Register-User-master\MessageReader\app\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7faf62e0697f7a88954622dfe8c8de33ed142ac7">
+        <dex dex="C:\Users\HP\Desktop\Android_Login-And-Register-User-master\MessageReader\app\build\intermediates\pre-dexed\debug\jxl_05f442fb15100c9593f738a35b534754de75151a.jar" />
+    </item>
+
+</items>
